@@ -10,3 +10,4 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+ 好像有点小哦http://qel0z193u.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20200804215918.png
