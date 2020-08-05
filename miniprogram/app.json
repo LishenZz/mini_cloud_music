@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/music/music",
+    "pages/blog/blog",
+    "pages/profile/profile",
+    "pages/demo/demo",
+    "pages/musiclist/musiclist",
+    "pages/player/player",
+    "pages/blog-edit/blog-edit",
+    "pages/blog-comment/blog-comment",
+    "pages/profile-playhistory/profile-playhistory",
+    "pages/profile-bloghistory/profile-bloghistory"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0066FF",
+    "navigationBarTitleText": "小白云音乐",
+    "navigationBarTextStyle": "black"
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/music/music",
+      "text": "音乐",
+      "iconPath": "/images/music.png",
+      "selectedIconPath": "/images/music_active.png"
+    },{
+      "pagePath":"pages/blog/blog",
+      "text":"发现",
+      "iconPath":"/images/blog.png",
+      "selectedIconPath":"/images/blog_active.png"
+    },{
+      "pagePath":"pages/profile/profile",
+      "text":"我的",
+      "iconPath":"/images/profile.png",
+      "selectedIconPath":"/images/profile_active.png"
+    }
+  ],
+  "selectedColor":"#0066CC"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

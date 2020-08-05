@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "playlist":"../../components/playlist/playlist"
+  },
+  "navigationBarTitleText": "音乐",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#0066FF"
+}

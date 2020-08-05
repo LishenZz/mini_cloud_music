@@ -1,0 +1,11 @@
+<!--components/playlist/playlist.wxml-->
+<view class="music-item" bind:tap="goToMusiclist">
+  <view class="music-img">
+    <image src="{{playlist.picUrl}}" mode="widthFix"></image>
+    <view class="music-icon">
+      <view>{{_count}}</view>
+      <image src="../../images/earphone.png"></image>
+    </view>
+  </view>
+  <view class="playlist-name">{{playlist.name}}</view>
+</view>
